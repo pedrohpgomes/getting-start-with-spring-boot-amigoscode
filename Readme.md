@@ -6,7 +6,7 @@ This API was build during the course "Getting start with Spring Boot" from [amig
 
 
 
-The goal was make an API in Java that let us to add, get the list, edit and delete students.
+The goal was develop an API in Java that let us to add, get the list, edit and delete students.
 
 First, we make the class Student with the attributes (Id, name, email, dob(date of birth) and age with the construct, setters, getters and toString.
 
